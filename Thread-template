@@ -98,7 +98,7 @@ Zephyr-OS is all about new features and looks! This beauty's inner beast gives y
 [CENTER][CODE]- Download the rom and [URL="http://opengapps.org/"][B]gapps[/B][/URL]
 - Boot into recovery mode [TWRP]
 - Wipe System/Data/Dalvik Cache/Cache
-- Select both the [B]ROM[/B] and [B]Gapps[B] zip file
+- Select both the [B]ROM[/B] and [B]Gapps[/B] zip file
 - Flash it!!! Reboot it!!! Enjoy it!!! :D[/CODE][/CENTER]
 [CENTER]NOTE:- CLEAN FLASH IS RECOMMENDED[/CENTER]
 
