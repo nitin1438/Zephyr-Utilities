@@ -64,27 +64,25 @@ Zephyr-OS is all about new features and looks! This beauty's inner beast gives y
 
 
 [B][SIZE="6"][COLOR="blue"]Changelog:[/COLOR][/SIZE][/B]
-[CENTER][CODE]4.1 changelog
-- Updated to android-6.0.1_r52
-(Latest security patch)
-- Whatsapp crash fixed
-- Removed layers and added Substratum for theming
-- included masquerade
-- Updated Pulse to newest changes
-- Sliders for Pulse customizations
-- Removed the big "Z" from no recents and added Android N style
-- Added a performance hook on dashboard for kernel auditor settings
-- GPS locking fixed
-- Huge updates on ART & Bionic for optimizations and performance
-- GCC updates
-- Added Navigation bar tile to toggle smartbar/fling
-- ability to filter apps for substratum theming
-- Sanity level for both pulse styles
-- Re-added HW rebinding
-- HW key disabler(requires testing)
-- battery improvements
-- Updated SuperSU to 2.76
-- Added SystemMode superSU[/CODE][/CENTER]
+[CENTER][CODE]
+[U]V4.2 Changelog[/U]
+- Pulse: Added fading blocks into anim
+- Added prebuilt Substratum theme engine
+- Unlocked USB data access 
+- Organize dashboard in settings
+- Add tint to Privacy guard/SuperSU
+- Add a new banner (changes color depending on the theme applied)
+- Added Paranoid Android battery styles (settings>battery> drop down menu) or pull down the panel and tap on battery icon
+- Completely fixed Whatsapp crash as tested on every device
+- Fixed settings > accounts > google force stop
+- Removed previous battery styles and carrier label
+- Added New Custom carrier label options
+- Reverted non-functional screen recorder
+
+[U]BEFORE USING SUBSTRATUM THEMES[/U]
+- Disable DARK MODE from settings > display
+- Flash [URL="http://forum.xda-developers.com/android/apps-games/apps-themeable-hangouts-layers-cmte-t3113192"]THEME READY GAPPS[/URL] to see your google apps get themed properly 
+[/CODE][/CENTER]
 
 [CENTER][IMG="g+"]https://raw.githubusercontent.com/Zephyr-OS/Zephyr-Utilities/master/google-plus.png[/IMG]
 [/CENTER]
